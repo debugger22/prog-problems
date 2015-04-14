@@ -1,1 +1,0 @@
-This repository contains my solutions to some programming problems.
